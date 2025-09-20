@@ -78,3 +78,9 @@ form input.operator {
         padding: 10px;
     }
 }
+
+@media (max-width: 360px) {
+    .calculator {
+        padding: 0px;
+    }
+}
